@@ -1,0 +1,5 @@
+root = treu
+
+[*]
+ident_style = space
+ident-size = 2
